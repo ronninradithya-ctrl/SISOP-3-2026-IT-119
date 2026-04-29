@@ -29,7 +29,8 @@ soal_1/
 └── Makefile
 ```
 
----
+<img width="790" height="165" alt="image" src="https://github.com/user-attachments/assets/79e3dfa9-76fa-45ef-b47f-235050fdadbc" />
+
 
 ## Langkah-Langkah Pembuatan
 
@@ -878,15 +879,4 @@ Format:
 ```text
 [YYYY-MM-DD HH:MM:SS] [User/System/Admin] [Pesan]
 ```
-
----
-
-## 12. Kesimpulan
-
-Program ini berhasil:
-
-* Mengimplementasikan client-server chat
-* Menangani banyak user dengan `select()`
-* Menyediakan mode admin terpisah
-* Menggunakan sistem RPC untuk command admin
-* Menyediakan logging aktivitas
+<img width="850" height="230" alt="image" src="https://github.com/user-attachments/assets/6f4e6d07-b325-45e2-8c05-85d6060bbb07" />
